@@ -1,0 +1,23 @@
+{
+  "name": "threedom",
+  "version": "0.0.1",
+  "description": "Exposure of a three.js scene graph in the browser dom",
+  "main": "threedom.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/jka6502/threedom.git"
+  },
+  "keywords": [
+    "three",
+    "3d",
+    "dom",
+    "scene",
+    "graph",
+    "api"
+  ],
+  "author": "James Andrews <jka6502@gmail.com>",
+  "license": "MIT"
+}
